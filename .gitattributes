@@ -1,5 +1,5 @@
-linguist-documentation=false
-linguist-vendored
+hooks/* linguist-documentation=false
+hooks/* linguist-vendored
 
 *.js linguist-detectable
 
