@@ -1,6 +1,1 @@
 hooks/* linguist-documentation=false
-hooks/* linguist-vendored
-
-*.js linguist-detectable
-
-
